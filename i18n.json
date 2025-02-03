@@ -1,0 +1,22 @@
+{
+  "languageLabel": {
+    "en": "English",
+    "zh": "简体中文"
+  },
+  "siteTitle": {
+    "en": "DimLight Wiki",
+    "zh": "微光 Wiki"
+  },
+  "siteDescription": {
+    "en": "DimLight Wiki",
+    "zh": "微光 Wiki"
+  },
+  "outlineTitle": {
+    "en": "ON THIS Page",
+    "zh": "大纲"
+  },
+  "gettingStarted"  : {
+    "en": "guide",
+    "zh": "开始"
+  }
+}

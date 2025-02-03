@@ -1,0 +1,16 @@
+[
+  {
+    "type": "dir",
+    "name": "Get-Started",
+    "label": "开始",
+    "collapsible": true,
+    "collapsed": false
+  },
+  {
+    "type": "dir",
+    "name": "Register-and-Use",
+    "label": "注册与使用",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
