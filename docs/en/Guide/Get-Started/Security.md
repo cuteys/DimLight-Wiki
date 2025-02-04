@@ -8,7 +8,7 @@ The **DimLight** Security Response Center is part of the defender community and 
 
 **DimLight** follows the Coordinated Vulnerability Disclosure (CVD) process. We encourage you to follow these guidelines to help us protect customers and the ecosystem from potential harm.
 
-You can contact us via email, or directly report vulnerabilities to the developers of the following open-source software:
+You can contact us via the [**admin email**](mailto:email@dimlight.top), or directly report vulnerabilities to the developers of the following open-source software:
 
 - [**Debian 12**](https://www.debian.org/security/)
 - [**Docker**](https://www.docker.com/)
