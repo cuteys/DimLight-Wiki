@@ -4,11 +4,13 @@
 
 ## **一、关于 微光**
 
-群组：[@DimLightChat](https://t.me/DimLightChat)
+群组：[@DimLight_Chat](https://t.me/DimLight_Chat)
 
-频道：[@DimLightNotice](https://t.me/DimLightNotice)
+频道：[@DimLight_Notice](https://t.me/DimLight_Notice)
 
-机器人：[@DimLightBot](https://t.me/DimLightBot)
+机器人：[@DimLight_Bot](https://t.me/DimLight_Bot)
+
+服务状态：[监视器](https://status.dimlight.top/status/dimlight)
 
 ## **二、使用限制**
 

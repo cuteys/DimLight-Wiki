@@ -4,11 +4,13 @@
 
 ## **1. About DimLight**
 
-Group: [@DimLightChat](https://t.me/DimLightChat)
+Group: [@DimLight_Chat](https://t.me/DimLight_Chat)
 
-Channel: [@DimLightNotice](https://t.me/DimLightNotice)
+Channel: [@DimLight_Notice](https://t.me/DimLight_Notice)
 
-Bot: [@DimLightBot](https://t.me/DimLightBot)
+Bot: [@DimLight_Bot](https://t.me/DimLight_Bot)
+
+Service status: [Monitor](https://status.dimlight.top/status/dimlight)
 
 ## **2. Usage Restrictions**
 

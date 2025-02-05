@@ -2,13 +2,13 @@
 
 **首先请关注频道并加入群组**
 
-> 群组：[@DimLightChat](https://t.me/DimLightChat)
+> 群组：[@DimLight_Chat](https://t.me/DimLight_Chat)
 > 
-> 频道：[@DimLightNotice](https://t.me/DimLightNotice)
+> 频道：[@DimLight_Notice](https://t.me/DimLight_Notice)
 
 ## **一、使用注册码或续期码**
 
-### 1. 进入开号机器人 [@DimLightBot](https://t.me/DimLightBot) 点击左下角，然后选择开启用户面板
+### 1. 进入开号机器人 [@DimLight_Bot](https://t.me/DimLight_Bot) 点击左下角，然后选择开启用户面板
 
 ![Bot_start.webp](/Bot_start.webp)
 
