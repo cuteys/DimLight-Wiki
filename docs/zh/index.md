@@ -13,7 +13,7 @@ hero:
       text: 注册与使用
       link: /Guide/Register-and-Use/Register
   image:
-    src: /rspress-icon.webp
+    src: /DimLight-Icon.webp
     alt: Logo
 features:
   - title: 极速启播与缓存加速

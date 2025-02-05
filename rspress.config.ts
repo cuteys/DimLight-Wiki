@@ -8,10 +8,10 @@ export default defineConfig({
   lang: 'zh',
   title: i18n.siteTitle.en,
   description: i18n.siteDescription.en,
-  icon: '/rspress-icon.webp',
+  icon: '/DimLight-Icon.webp',
   logo: {
-    light: '/rspress-light-logo.png',
-    dark: '/rspress-dark-logo.png',
+    light: '/DimLight-Light-Logo.png',
+    dark: '/DimLight-Dark-Logo.png',
   },
   locales: [
     {

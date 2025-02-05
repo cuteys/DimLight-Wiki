@@ -13,7 +13,7 @@ hero:
       text: Use and play
       link: /Guide/Use-and-Play/Android
   image:
-    src: /rspress-icon.webp
+    src: /DimLight-Icon.webp
     alt: Logo
 features:
   - title: Instant Playback and Cache Acceleration
