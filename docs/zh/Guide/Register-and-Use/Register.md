@@ -8,7 +8,7 @@
 
 ## **一、使用注册码或续期码**
 
-### 1. 进入开号机器人 [@DimLight_Bot](https://t.me/DimLight_Bot) 点击左下角，然后选择开启用户面板
+### 1. 进入开号机器人 [@DimLight_AdminBot](https://t.me/DimLight_AdminBot) 点击左下角，然后选择开启用户面板
 
 ![Bot_start.webp](/Bot_start.webp)
 

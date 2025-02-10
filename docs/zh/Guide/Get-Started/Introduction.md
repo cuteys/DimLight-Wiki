@@ -8,7 +8,7 @@
 
 频道：[@DimLight_Notice](https://t.me/DimLight_Notice)
 
-机器人：[@DimLight_Bot](https://t.me/DimLight_Bot)
+机器人：[@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
 
 服务状态：[监视器](https://status.dimlight.top/status/dimlight)
 

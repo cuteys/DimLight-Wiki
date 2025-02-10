@@ -10,8 +10,8 @@
 
 ### 2. Usage and Restrictions
 
-- **Movies**: You can make **2** requests every **7** days.
-- **TV Shows**: You can make **1** request every **7** days (calculated by season).
+- **Movies**: You can make **5** requests every **7** days.
+- **TV Shows**: You can make **2** request every **7** days (calculated by season).
 
 If you are on the **special list**, you can **consult with the support staff** to receive higher limits.
 

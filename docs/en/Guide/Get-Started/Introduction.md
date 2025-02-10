@@ -8,7 +8,7 @@ Group: [@DimLight_Chat](https://t.me/DimLight_Chat)
 
 Channel: [@DimLight_Notice](https://t.me/DimLight_Notice)
 
-Bot: [@DimLight_Bot](https://t.me/DimLight_Bot)
+Bot: [@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
 
 Service status: [Monitor](https://status.dimlight.top/status/dimlight)
 
