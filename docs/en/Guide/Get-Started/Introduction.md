@@ -4,11 +4,15 @@
 
 ## **1. About DimLight**
 
+**DinLight** is a **premium video media library** that uses a slot-filling mechanism to ensure efficient and stable content updates.
+
 Group: [@DimLight_Chat](https://t.me/DimLight_Chat)
 
 Channel: [@DimLight_Notice](https://t.me/DimLight_Notice)
 
-Bot: [@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
+Account Bot: [@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
+
+Support Bot：[@DimLight_SupportBot](https://t.me/DimLight_SupportBot)
 
 Service status: [Monitor](https://status.dimlight.top/status/dimlight)
 

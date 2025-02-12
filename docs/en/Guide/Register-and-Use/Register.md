@@ -8,7 +8,7 @@
 
 ## **1. Using a Registration Code or Renewal Code**
 
-### 1. Enter the registration bot [@DimLight_AdminBot](https://t.me/DimLight_AdminBot), click the bottom-left corner, then choose to open the user panel
+### 1. Enter the registration account bot [@DimLight_AdminBot](https://t.me/DimLight_AdminBot), click the bottom-left corner, then select to open the user panel
 
 ![Bot_start.webp](/Bot_start.webp)
 

@@ -1,14 +1,18 @@
 # 概述
 
-> **微光** 是一个付费影视媒体库，只需要用客户端连上 **微光** 服务器即可在各种设备上观影
+> **微光** 是一款付费影视媒体库，只需要用客户端连上 **微光** 服务器即可在各种设备上观影
 
 ## **一、关于 微光**
+
+**微光** 是一款**付费影视媒体库**，采用封车补位机制，旨在提供高效、稳定的内容更新服务
 
 群组：[@DimLight_Chat](https://t.me/DimLight_Chat)
 
 频道：[@DimLight_Notice](https://t.me/DimLight_Notice)
 
-机器人：[@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
+账号 Bot：[@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
+
+客服 Bot：[@DimLight_SupportBot](https://t.me/DimLight_SupportBot)
 
 服务状态：[监视器](https://status.dimlight.top/status/dimlight)
 
