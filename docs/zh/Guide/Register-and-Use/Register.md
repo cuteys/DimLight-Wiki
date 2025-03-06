@@ -1,4 +1,4 @@
-# 注册教程
+# 购买与注册
 
 **首先请关注频道并加入群组**
 
@@ -6,9 +6,26 @@
 > 
 > 频道：[@DimLight_Notice](https://t.me/DimLight_Notice)
 
-## **一、使用注册码或续期码**
+## **一、购买注册码或续期码**
 
-### 1. 进入开号账号 Bot [@DimLight_AdminBot](https://t.me/DimLight_AdminBot) 点击左下角，然后选择开启用户面板
+### 1. 获取入股区链接
+
+方法一: 在群组中发送关键词 “注册” 获取入股区链接
+
+![Chat-Faka.webp](/Chat-Faka.webp)
+
+方法二: 在 [账号管理 Bot](https://t.me/DimLight_AdminBot) 中获取入股区链接
+
+![Bot-Faka.webp](/Bot-Faka.webp)
+
+### 2. 在卡网中选择需要购买的规格
+
+![Faka.webp](/Faka.webp)
+
+
+## **二、使用注册码或续期码**
+
+### 1. 进入 [账号管理 Bot](https://t.me/DimLight_AdminBot) 点击左下角，然后选择开启用户面板
 
 ![Bot_start.webp](/Bot_start.webp)
 

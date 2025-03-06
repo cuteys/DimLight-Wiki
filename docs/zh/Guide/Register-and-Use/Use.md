@@ -1,4 +1,4 @@
-# 使用教程
+# 使用与播放
 
 > **下方链接取自 [@baiitang](https://t.me/baiitang) 的频道 [Baitangの夢番地](https://t.me/Siakiura/16)** 
 
