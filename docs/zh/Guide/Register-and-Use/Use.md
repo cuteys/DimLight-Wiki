@@ -1,6 +1,7 @@
 # 使用与播放
 
 > **下方部分链接取自 [@baiitang](https://t.me/baiitang) 的频道 [Baitangの夢番地](https://t.me/Siakiura/16)** 
+> 
 > **不完全整理，如有遗漏或错误请联系 [客服 Bot](https://t.me/DimLight_SupportBot)**
 
 ## **一、Emby App 推荐**
@@ -27,9 +28,9 @@
 
 - [AGC Player](https://t.me/agcplayer) | [App Store](https://apps.apple.com/cn/app/agc-video-player/id6670426427)
 
-- Emby官方客户端 | [App Store](https://apps.apple.com/cn/app/emby/id992180193) : 内购￥30，使用代理软件破解
-[QX重写](https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20%3A%20%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2Fbaiitang%2FSakura%2Fmain%2FQuanx%2FScripts%2FEmby%2FEmby.conf%2C%20tag%3DEmby%E8%A7%A3%E9%94%81%E6%92%AD%E6%94%BE%E6%9D%83%E9%99%90%2C%20update-interval%3D172800%2C%20opt-parser%3Dtrue%2C%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D)  
-[Loon模块](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/baiitang/Sakura/main/Loon/Plugin/Emby.plugin) | [Surge模块](https://raw.githubusercontent.com/baiitang/Sakura/main/Surge/Module/Emby.sgmodule) | [巨魔版](https://t.me/NaoRubbish/76) | [增强版](https://raw.githubusercontent.com/rartv/EmbyPublic/test/surge/emby-plugin.sgmodule)  
+- Emby官方客户端 | [App Store](https://apps.apple.com/cn/app/emby/id992180193) : 内购￥30，可使用代理软件破解
+
+[QX重写](https://quantumult.app/x/open-app/add-resource?remote-resource=%7B%0A%20%20%22rewrite_remote%22%20%3A%20%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2Fbaiitang%2FSakura%2Fmain%2FQuanx%2FScripts%2FEmby%2FEmby.conf%2C%20tag%3DEmby%E8%A7%A3%E9%94%81%E6%92%AD%E6%94%BE%E6%9D%83%E9%99%90%2C%20update-interval%3D172800%2C%20opt-parser%3Dtrue%2C%20enabled%3Dtrue%22%0A%20%20%5D%0A%7D) | [Loon模块](https://www.nsloon.com/openloon/import?plugin=https://raw.githubusercontent.com/baiitang/Sakura/main/Loon/Plugin/Emby.plugin) | [Surge模块](https://raw.githubusercontent.com/baiitang/Sakura/main/Surge/Module/Emby.sgmodule) | [巨魔版](https://t.me/NaoRubbish/76) | [增强版](https://raw.githubusercontent.com/rartv/EmbyPublic/test/surge/emby-plugin.sgmodule)  
 
 ---
 
@@ -63,13 +64,13 @@
 
 ## **四、有声书 App 推荐**
 
-- 安卓、iOS: [Audiobookshelf](https://t.me/PiBtPi/88) （iOS目前只有TF、未上架至AppStore）
+- 安卓、iOS: [Audiobookshelf](https://t.me/PiBtPi/88)（iOS目前只有TF、未上架至AppStore）
 
-- iOS: [Plappa](https://apps.apple.com/app/id6475201956)  |  TF链接 (https://testflight.apple.com/join/oSAekRD5)  （不需要内购也能用）
+- iOS: [Plappa](https://apps.apple.com/app/id6475201956) | [TF链接](https://testflight.apple.com/join/oSAekRD5)  （不需要内购也能用）
 
-- iOS: [ShelfPlayer](https://apps.apple.com/app/id6475221163) （购买下载￥38） 自签 (https://t.me/NaoRubbish/167)
+- iOS: [ShelfPlayer](https://apps.apple.com/app/id6475221163)（购买下载￥38）[自签](https://t.me/NaoRubbish/167)
 
-- iOS: [Prologue](https://testflight.apple.com/join/zTWS6ahB) （目前最新版有问题，建议降级使用2024.4.0:10073版本）
+- iOS: [Prologue](https://testflight.apple.com/join/zTWS6ahB)（目前最新版有问题，建议降级使用2024.4.0:10073版本）
 
 - 安卓、Window: [Buchable](https://github.com/Vito0912/abs_flutter)
 
