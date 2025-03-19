@@ -14,7 +14,7 @@
 
 ![Chat-Faka.webp](/Chat-Faka.webp)
 
-方法二: 在 [账号管理 Bot](https://t.me/DimLight_AdminBot) 中获取入股区链接
+方法二: 在 [Emby Bot](https://t.me/DimLight_AdminBot) 或者 [有声书 Bot](https://t.me/DimLight_BookBot) 中获取入股区链接
 
 ![Bot-Faka.webp](/Bot-Faka.webp)
 
@@ -25,7 +25,7 @@
 
 ## **二、使用注册码或续期码**
 
-### 1. 进入 [账号管理 Bot](https://t.me/DimLight_AdminBot) 点击左下角，然后选择开启用户面板
+### 1. 进入 [账号管理 Bot](https://t.me/DimLight_AdminBot)  或者 [有声书 Bot](https://t.me/DimLight_BookBot) 点击左下角，然后选择开启用户面板
 
 ![Bot_start.webp](/Bot_start.webp)
 

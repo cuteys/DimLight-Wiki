@@ -10,7 +10,9 @@
 
 频道：[@DimLight_Notice](https://t.me/DimLight_Notice)
 
-账号 Bot：[@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
+Emby Bot：[@DimLight_AdminBot](https://t.me/DimLight_AdminBot)
+
+有声书 Bot：[@DimLight_BookBot](https://t.me/DimLight_BookBot)
 
 客服 Bot：[@DimLight_SupportBot](https://t.me/DimLight_SupportBot)
 
@@ -23,7 +25,7 @@
 - **播放列表**：请**不要**创建播放列表，这会引起不必要的磁盘扫描事件。
 - **服务器地址**：请**不要**在任何场合展示、显示服务器地址，这可能会引起不必要的冲突。
 - **并发视频会话数**：每个账户的并发视频会话数为 **2**，如果你位于**特殊列表**，你可以联系[**客服 Bot**](https://t.me/DimLight_SupportBot)以获得更高的并发数。
-- **播放限制**：禁用**网易爆米花**播放。
+- **播放限制**：禁用**浏览器**、**网易爆米花**播放 (有声书可使用浏览器播放)。
 - **下载限制**：有少量下载需求的用户，请联系[**客服 Bot**](https://t.me/DimLight_SupportBot)。
 
 ## **三、演示视频**
